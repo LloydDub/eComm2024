@@ -1,5 +1,6 @@
 import React from "react";
 
+// a comment to test my git
 function Product({ product }) {
   return (
     <div>
